@@ -1,6 +1,6 @@
 # desafios_TypeScript   
 
-Projeto criado para solucionar os desafios de código TypeScript propostos no Santander Bootcamp Fullstack Developer da Digital Innovation One.
+Projeto criado para solucionar os desafios de código **TypeScript** propostos no Santander Bootcamp Fullstack Developer da Digital Innovation One.
 
 ## Ferramentas necessárias   
  
@@ -76,25 +76,3 @@ employee.name = "John";
  */   
  
  ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
