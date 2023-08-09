@@ -1,4 +1,6 @@
-# desafios_TypeScript   
+<h1 align="center">
+   typescript_Challanges 
+</h1>
 
 Projeto criado para solucionar os desafios de código **TypeScript** propostos no Santander Bootcamp Fullstack Developer da Digital Innovation One.
 
